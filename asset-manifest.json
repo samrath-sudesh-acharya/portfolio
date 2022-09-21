@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8c69c06b.css",
+    "main.js": "/portfolio/static/js/main.dc77fa31.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/samrath.jpg": "/portfolio/static/media/samrath.d1a3a2aabfe3258af01d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.8c69c06b.css.map": "/portfolio/static/css/main.8c69c06b.css.map",
+    "main.dc77fa31.js.map": "/portfolio/static/js/main.dc77fa31.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c69c06b.css",
+    "static/js/main.dc77fa31.js"
+  ]
+}
