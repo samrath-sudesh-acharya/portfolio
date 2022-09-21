@@ -1,0 +1,74 @@
+body {
+  background-color: #111111;
+}
+
+.hero{
+  height: 70vh;
+  width: 100%;
+  background-color: #c4ff00;
+  opacity: 90%;
+  color: #ffffff;
+  font-weight: bolder;
+  font-size: 8rem;
+  position: relative;
+  padding-left: 8vh;
+  padding-top: 6vh;
+}
+
+#description{
+  color: #111111;
+  font-size:xx-large;
+  font-weight:700;
+}
+
+.plus-50{
+  background-image: url('./asset/plus-50px.png');
+  height: 50px;
+  width: 50px;
+}
+
+.photo {
+  position: absolute;
+  left : 140vh;
+  top: 8vh;
+}
+
+.dots{
+  background-image: url('./asset/plus.png');
+  width: 300vh;
+  height: 3vh;
+  size: 1vh;
+  top: 68vh;
+  left: 1vh;
+  position: absolute;
+  opacity: 70%;
+  z-index: -1;
+}
+
+.plus-1 {
+  position: absolute;
+  top: 7vh;
+  left: 4vh;
+}
+
+.plus-2 {
+  position: absolute;
+  left: 130vh;
+}
+
+.rec-1{
+  width: 20vh;
+  height: 1.2vh;
+  position: absolute;
+  top: 60vh;
+  background-color: black;
+}
+
+.rec-2{
+  width: 1.2vh;
+  height: 18vh;
+  position: absolute;
+  top: 47.5vh;
+  left: 190vh;
+  background-color: black;
+}
