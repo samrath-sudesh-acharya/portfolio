@@ -1,3 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+/important-website
+
+# Don't go to http://web.archive.org/, I save snapshots of my websites there  
